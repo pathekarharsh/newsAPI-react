@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Katie Hunt",
+    "title": "The Black Death is still affecting the human immune system - CNN",
+    "description": "The Black Death, the world's most devastating plague outbreak, killed half of medieval Europe's population in the space of seven years, shifting the course of human history. It was more than luck that determined who died and who survived, a new study says.",
+    "url": "https://www.cnn.com/2022/10/19/world/black-death-plague-immune-system-scn-wellness/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221019145852-04-black-death-plague-immune-system.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-10-19T15:59:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more. The Black Death, the worlds most devastating plague ou… [+4931 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Elnaz Rekabi: Fans cheer, clap as climber returns to Iran - Reuters.com",
+    "description": "Iranian climber Elnaz Rekabi, who caused controversy by competing in an international contest without a headscarf, has returned to Iran to cheering supporters, reiterating in comments to state media she had climbed without a hijab unintentionally.",
+    "url": "https://www.reuters.com/world/middle-east/iranian-climber-elnaz-rekabi-cheered-by-fans-return-iran-2022-10-19/",
+    "urlToImage": "https://www.reuters.com/resizer/hwE3yIDRna89pYJwS-kjnKUqHCU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GEZDHO27JVLZDNEEKH3FJ5IFV4.jpg",
+    "publishedAt": "2022-10-19T13:36:00Z",
+    "content": "DUBAI, Oct 19 (Reuters) - Iranian climber Elnaz Rekabi, who caused controversy by competing in an international contest without a headscarf, has returned to Iran to cheering supporters, reiterating i… [+3087 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Annie Palmer",
+    "title": "Why Amazon employees near Albany were divided about joining a union - CNBC",
+    "description": "Workers who voted in favor argued employees should have greater say in company policies, while others expressed skepticism abuot joining a 'startup' union.",
+    "url": "https://www.cnbc.com/2022/10/19/why-amazon-employees-near-albany-were-divided-about-joining-a-union.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107036715-16482225962022-03-25t151046z_25021416_rc2p9t97o3fg_rtrmadp_0_amazon-com-labor.jpeg?v=1666181101&w=1920&h=1080",
+    "publishedAt": "2022-10-19T12:05:01Z",
+    "content": "Workers stand in line to cast ballots for a union election at Amazon's JFK8 distribution center, in the Staten Island borough of New York City, U.S. March 25, 2022. For the past few months, an Amazo… [+6983 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "New Apple TV No Longer Includes Charging Cable for Siri Remote in Box - MacRumors",
+    "description": "The new Apple TV 4K introduced today ships without a charging cable for the Siri Remote, forcing customers who need one to purchase one separately....",
+    "url": "https://www.macrumors.com/2022/10/18/apple-tv-now-ships-without-charging-cable/",
+    "urlToImage": "https://images.macrumors.com/t/izkh8ht1WkKFeYS6dwtdG8jQ_5k=/2000x/article-new/2021/05/siri-remote-1.jpg",
+    "publishedAt": "2022-10-18T19:21:27Z",
+    "content": "The new Apple TV 4K introduced today ships without a charging cable for the Siri Remote, forcing customers who need one to purchase one separately. Previous models of the Apple TV included a Lightnin… [+1249 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Aya Elamroussi",
+    "title": "Astronaut James McDivitt, who led Gemini and Apollo missions, has died at 93 - CNN",
+    "description": "James McDivitt, a former NASA astronaut who commanded the Gemini IV and Apollo 9 missions, died in his sleep last week in Tucson, Arizona, NASA said in a statement Monday. He was 93.",
+    "url": "https://www.cnn.com/2022/10/18/us/apollo-astronaut-james-mcdivitt-obit/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221018135415-james-a-mcdivitt.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-10-18T07:49:00Z",
+    "content": "James McDivitt, a former NASA astronaut who commanded the Gemini IV and Apollo 9 missions, died in his sleep last week in Tucson, Arizona, NASA said in a statement Monday. He was 93. McDivitt was s… [+2421 chars]"
+    }
+    ]
+    }
